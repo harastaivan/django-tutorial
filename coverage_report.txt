@@ -1,0 +1,19 @@
+Name                                       Stmts   Miss  Cover
+--------------------------------------------------------------
+manage.py                                      9      2    78%
+mysite/__init__.py                             0      0   100%
+mysite/settings.py                            18      0   100%
+mysite/urls.py                                 3      0   100%
+mysite/wsgi.py                                 4      4     0%
+polls/__init__.py                              0      0   100%
+polls/admin.py                                 4      0   100%
+polls/apps.py                                  3      0   100%
+polls/migrations/0001_initial.py               6      0   100%
+polls/migrations/0002_question_weight.py       4      0   100%
+polls/migrations/__init__.py                   0      0   100%
+polls/models.py                               18      1    94%
+polls/tests.py                                68      0   100%
+polls/urls.py                                  4      0   100%
+polls/views.py                                29      8    72%
+--------------------------------------------------------------
+TOTAL                                        170     15    91%
